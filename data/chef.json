@@ -1,0 +1,242 @@
+[
+    {
+        "_id": "123",
+        "listId": 2,
+        "chefName": "Mario Rossi",
+        "chefPicture": "https://i.ibb.co/nCKjNHG/male-chef-uniform-apron-showing-stop-gesture-front-view.jpg",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 100,
+        "likes": 5000,
+        "description": "Chef Mario Rossi is a renowned Italian chef with 15 years of experience in preparing exquisite Italian dishes. He has created a diverse collection of 100 delicious Italian recipes that have garnered 5000 likes from food enthusiasts around the world.",
+        "recipe1": {
+          "recipeName": "Spaghetti Carbonara",
+          "ingredients": ["Spaghetti", "Guanciale", "Eggs", "Pecorino Romano", "Black Pepper"],
+          "cookingMethod": "1. Cook spaghetti in salted boiling water. 2. Sauté guanciale until crispy. 3. Beat eggs, cheese, and pepper. 4. Toss cooked pasta in the mixture. 5. Serve immediately.",
+          "rating": 4.7,
+          "favorite": false,
+          "recipeId": 1
+        },
+        "recipe2": {
+          "recipeName": "Margherita Pizza",
+          "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella Cheese", "Fresh Basil", "Olive Oil"],
+          "cookingMethod": "1. Roll out pizza dough. 2. Spread sauce on the dough. 3. Add cheese and basil. 4. Bake until crust is golden. 5. Drizzle with olive oil.",
+          "rating": 4.9,
+          "favorite": false,
+          "recipeId": 2
+        },
+        "recipe3": {
+          "recipeName": "Tiramisu",
+          "ingredients": ["Ladyfingers", "Mascarpone Cheese", "Eggs", "Sugar", "Espresso"],
+          "cookingMethod": "1. Combine egg yolks and sugar. 2. Mix in mascarpone. 3. Dip ladyfingers in espresso. 4. Layer ladyfingers and cream. 5. Chill before serving.",
+          "rating": 4.8,
+          "favorite": false,
+          "recipeId": 3
+        },
+        "recipe4": {
+          "recipeName": "Rigatoni Alla Norma",
+          "ingredients": ["Rigatoni", "Eggplant", "Tomato Sauce", "Cilantro", "Ricotta Salata", "Olive Oil"],
+          "cookingMethod": "1. Cook rigatoni in salted boiling water. 2. Sauté eggplant until tender. 3. Add tomato sauce, cilantro, and ricotta salata. 4. Toss cooked pasta in the mixture. 5. Serve immediately.",
+          "rating": 4.6,
+          "favorite": false,
+          "recipeId": 4
+        },
+        "recipe5": {
+          "recipeName": "Pasta Alla Norma",
+          "ingredients": ["Pasta Sheets", "Eggplant", "Tomato Sauce", "Cilantro", "Ricotta Salata", "Olive Oil"],
+          "cookingMethod": "1. Cook pasta sheets according to package directions. 2. Sauté eggplant until tender. 3. Add tomato sauce, cilantro, and ricotta salata. 4. Toss pasta with the sauce. 5. Serve immediately.",
+          "rating": 4.5,
+          "favorite": false,
+          "recipeId": 5
+        },
+        "recipe6": {
+          "recipeName": "Lasagna",
+          "ingredients": ["Lasagna Sheets", "Beef Ragu", "Bechemel Sauce", "Mozzarella Cheese"],
+          "cookingMethod": "1. Cook lasagna sheets according to package directions. 2. Make the beef ragu and bechamel sauce. 3. Assemble lasagna by layering pasta, ragu, and bechamel sauce. 4. Top with mozzarella cheese and bake until bubbly. 5. Let stand for 10 minutes before serving.",
+          "rating": 4.4,
+          "favorite": false,
+          "recipeId": 6
+        }
+      },
+     
+     
+      
+
+
+        {
+            "_id": "456",
+            "chefName": "Massimo Bottura",
+            "chefPicture": "https://i.ibb.co/3zk4dp7/portrait-smiling-chef-uniform-1.jpg",
+            "yearsOfExperience": 30,
+            "numberOfRecipes": 200,
+            "likes": 100000,
+            "description": "Massimo Bottura is a world-renowned Italian chef who has been awarded three Michelin stars for his restaurant Osteria Francescana in Modena, Italy. He is known for his innovative and creative take on traditional Italian cuisine.",
+            "listId": 1,
+            "recipe1": {
+              "recipeName": "Oops! I Dropped the Lemon Tart",
+              "ingredients": ["Lemon curd", "Pâte Sucrée", "Candied lemon peel"],
+              "cookingMethod": "1. Make the lemon curd. 2. Roll out the pâte sucrée and blind bake. 3. Spread the lemon curd on the tart shell. 4. Top with candied lemon peel. 5. Serve immediately.",
+              "rating": 4.9,
+              "favorite": false,
+              "recipeId": 1
+            },
+            "recipe2": {
+              "recipeName": "The Crunchy Part of the Lasagna",
+              "ingredients": ["Lasagna sheets", "Beef Ragu", "Bechemel Sauce", "Parmesan Cheese"],
+              "cookingMethod": "1. Cook the lasagna sheets according to package directions. 2. Make the beef ragu and bechamel sauce. 3. Assemble the lasagna by layering pasta, ragu, bechamel sauce, and Parmesan cheese. 4. Bake until golden brown. 5. Let stand for 10 minutes before serving.",
+              "rating": 4.8,
+              "favorite": false,
+              "recipeId": 2
+            },
+            "recipe3": {
+              "recipeName": "The Five Ages of Parmigiano Reggiano",
+              "ingredients": ["Parmigiano Reggiano cheese"],
+              "cookingMethod": "1. Arrange the different ages of Parmigiano Reggiano cheese on a plate. 2. Serve with crackers or bread.",
+              "rating": 4.7,
+              "favorite": false,
+              "recipeId": 3
+            }
+          },
+          
+          {
+            "_id": "789",
+            "chefName": "Carlo Cracco",
+            "chefPicture": "https://i.ibb.co/4YQNrWV/portrait-pensive-old-man-chef-dressed-uniform-posing-against-dark-background.jpg",
+            "yearsOfExperience": 25,
+            "numberOfRecipes": 150,
+            "likes": 60000,
+            "description": "Carlo Cracco is a world-renowned Italian chef who has been awarded three Michelin stars for his restaurant Cracco in Milan, Italy. He is known for his modern and elegant take on Italian cuisine.",
+            "listId": 2,
+            "recipe1": {
+              "recipeName": "Risotto with White Truffles",
+              "ingredients": ["Arborio rice", "White truffles", "Parmesan cheese"],
+              "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the white truffles and Parmesan cheese. 3. Stir until melted. 4. Serve immediately.",
+              "rating": 4.9,
+              "favorite": false,
+              "recipeId": 1
+            },
+            "recipe2": {
+              "recipeName": "Veal Milanese",
+              "ingredients": ["Veal cutlets", "Eggs", "Breadcrumbs", "Parmesan cheese"],
+              "cookingMethod": "1. Pound the veal cutlets until thin. 2. Dip the cutlets in egg, then breadcrumbs. 3. Fry the cutlets until golden brown. 4. Serve with lemon wedges and Parmesan cheese.",
+              "rating": 4.8,
+              "favorite": false,
+              "recipeId": 2
+            },
+            "recipe3": {
+              "recipeName": "Torta Caprese",
+              "ingredients": ["Bittersweet chocolate", "Hazelnuts", "Sugar", "Eggs"],
+              "cookingMethod": "1. Melt the chocolate and hazelnuts together. 2. Beat the eggs and sugar together. 3. Add the melted chocolate and hazelnuts to the egg mixture. 4. Pour the mixture into a baking dish and bake at 350 degrees Fahrenheit for 30 minutes. 5. Let cool before serving.",
+              "rating": 4.7,
+              "favorite": false,
+              "recipeId": 3
+            }
+          },
+          
+          {
+            "_id": "987",
+            "chefName": "Aea Curkan",
+            "chefPicture": "https://i.ibb.co/Rpj1WVf/happy-young-cook-uniform-holding-salad.jpg",
+            "yearsOfExperience": 20,
+            "numberOfRecipes": 100,
+            "likes": 40000,
+            "description": "Andrea Berton is a world-renowned Italian chef who has been awarded two Michelin stars for his restaurant Ristorante Berton in Milan, Italy. He is known for his use of innovative cooking techniques and his focus on seasonal ingredients.",
+            "listId": 1,
+            "recipe1": {
+              "recipeName": "Risotto with Spring Vegetables",
+              "ingredients": ["Arborio rice", "Spring vegetables", "Parmesan cheese"],
+              "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the spring vegetables to the rice and cook until tender. 3. Add the Parmesan cheese and stir until melted. 4. Serve immediately.",
+              "rating": 4.9,
+              "favorite": false,
+              "recipeId": 1
+            },
+               "recipe2": {
+              "recipeName": "Tiramisu",
+              "ingredients": ["Ladyfingers", "Mascarpone cheese", "Eggs", "Sugar", "Espresso"],
+              "cookingMethod": "1. Combine the egg yolks and sugar together. 2. Beat until smooth. 3. Add the mascarpone cheese and mix until combined. 4. Dip the ladyfingers in espresso. 5. Layer the ladyfingers and cream in a serving dish. 6. Dust with cocoa powder. 7. Chill before serving.",
+              "rating": 4.8,
+              "favorite": false,
+              "recipeId": 2
+            },
+            "recipe3": {
+              
+              
+                "recipeName": "Tiramisu",
+                "ingredients": ["Ladyfingers", "Mascarpone cheese", "Eggs", "Sugar", "Espresso"],
+                "cookingMethod": "1. Combine the egg yolks and sugar together. 2. Beat until smooth. 3. Add the mascarpone cheese and mix until combined. 4. Dip the ladyfingers in espresso. 5. Layer the ladyfingers and cream in a serving dish. 6. Dust with cocoa powder. 7. Chill before serving.",
+                "rating": 4.8,
+                "favorite": false,
+                "recipeId": 10
+              }
+          },
+          
+          {
+            "_id": "099",
+            "chefName": "Andrea Berton",
+            "chefPicture": "https://i.ibb.co/4YMnBdQ/expressive-young-lady-posing.jpg",
+            "yearsOfExperience": 20,
+            "numberOfRecipes": 100,
+            "likes": 40000,
+            "description": "Andrea Berton is a world-renowned Italian chef who has been awarded two Michelin stars for his restaurant Ristorante Berton in Milan, Italy. He is known for his use of innovative cooking techniques and his focus on seasonal ingredients.",
+            "listId": 2,
+            "recipe1": {
+              "recipeName": "Risotto with Spring Vegetables",
+              "ingredients": ["Arborio rice", "Spring vegetables", "Parmesan cheese"],
+              "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the spring vegetables to the rice and cook until tender. 3. Add the Parmesan cheese and stir until melted. 4. Serve immediately.",
+              "rating": 4.9,
+              "favorite": false,
+              "recipeId": 1
+            },
+            "recipe2": {
+              "recipeName": "Tiramisu",
+              "ingredients": ["Ladyfingers", "Mascarpone cheese", "Eggs", "Sugar", "Espresso"],
+              "cookingMethod": "1. Combine the egg yolks and sugar together. 2. Beat until smooth. 3. Add the mascarpone cheese and mix until combined. 4. Dip the ladyfingers in espresso. 5. Layer the ladyfingers and cream in a serving dish. 6. Dust with cocoa powder. 7. Chill before serving.",
+              "rating": 4.8,
+              "favorite": false,
+              "recipeId": 2
+            },"recipe3": {
+                "recipeName": "Risotto with White Truffles",
+                "ingredients": ["Arborio rice", "White truffles", "Parmesan cheese"],
+                "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the white truffles and Parmesan cheese. 3. Stir until melted. 4. Serve immediately.",
+                "rating": 4.9,
+                "favorite": false,
+                "recipeId": 4
+              }
+          }, 
+          
+          {
+            "_id": "090",
+            "listId": 2,
+            "chefName": "Mario Mdami",
+            "chefPicture": "https://i.ibb.co/PZm8vvv/angry-chef-is-looking-camera-by-crossing-arms-blue-background.jpg",
+            "yearsOfExperience": 15,
+            "numberOfRecipes": 100,
+            "likes": 5000,
+            "description": "Chef Mario Rossi is a renowned Italian chef with 15 years of experience in preparing exquisite Italian dishes. He has created a diverse collection of 100 delicious Italian recipes that have garnered 5000 likes from food enthusiasts around the world.",
+            "recipe1": {
+              "recipeName": "Spaghetti Carbonara",
+              "ingredients": ["Spaghetti", "Guanciale", "Eggs", "Pecorino Romano", "Black Pepper"],
+              "cookingMethod": "1. Cook spaghetti in salted boiling water. 2. Sauté guanciale until crispy. 3. Beat eggs, cheese, and pepper. 4. Toss cooked pasta in the mixture. 5. Serve immediately.",
+              "rating": 4.7,
+              "favorite": false,
+              "recipeId": 1
+            },
+            "recipe2":  {
+              "recipeName": "Margherita Pizza",
+              "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella Cheese", "Fresh Basil", "Olive Oil"],
+              "cookingMethod": "1. Roll out pizza dough. 2. Spread sauce on the dough. 3. Add cheese and basil. 4. Bake until crust is golden. 5. Drizzle with olive oil.",
+              "rating": 4.9,
+              "favorite": false,
+              "recipeId": 2
+            },"recipe3": {
+              "recipeName": "Tiramisu",
+              "ingredients": ["Ladyfingers", "Mascarpone Cheese", "Eggs", "Sugar", "Espresso"],
+              "cookingMethod": "1. Combine egg yolks and sugar. 2. Mix in mascarpone. 3. Dip ladyfingers in espresso. 4. Layer ladyfingers and cream. 5. Chill before serving.",
+              "rating": 4.8,
+              "favorite": false,
+              "recipeId": 3
+            }
+           
+          }
+          
+  ]
+
