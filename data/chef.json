@@ -70,14 +70,14 @@
             "numberOfRecipes": 200,
             "likes": 100000,
             "description": "Massimo Bottura is a world-renowned Italian chef who has been awarded three Michelin stars for his restaurant Osteria Francescana in Modena, Italy. He is known for his innovative and creative take on traditional Italian cuisine.",
-            "listId": 1,
+            "listId": 7,
             "recipe1": {
-              "recipeName": "Oops! I Dropped the Lemon Tart",
+              "recipeName": "Lemon Tart",
               "ingredients": ["Lemon curd", "Pâte Sucrée", "Candied lemon peel"],
               "cookingMethod": "1. Make the lemon curd. 2. Roll out the pâte sucrée and blind bake. 3. Spread the lemon curd on the tart shell. 4. Top with candied lemon peel. 5. Serve immediately.",
               "rating": 4.9,
               "favorite": false,
-              "recipeId": 1
+              "recipeId": 7
             },
             "recipe2": {
               "recipeName": "The Crunchy Part of the Lasagna",
@@ -85,7 +85,7 @@
               "cookingMethod": "1. Cook the lasagna sheets according to package directions. 2. Make the beef ragu and bechamel sauce. 3. Assemble the lasagna by layering pasta, ragu, bechamel sauce, and Parmesan cheese. 4. Bake until golden brown. 5. Let stand for 10 minutes before serving.",
               "rating": 4.8,
               "favorite": false,
-              "recipeId": 2
+              "recipeId": 8
             },
             "recipe3": {
               "recipeName": "The Five Ages of Parmigiano Reggiano",
@@ -93,7 +93,7 @@
               "cookingMethod": "1. Arrange the different ages of Parmigiano Reggiano cheese on a plate. 2. Serve with crackers or bread.",
               "rating": 4.7,
               "favorite": false,
-              "recipeId": 3
+              "recipeId": 9
             }
           },
           
@@ -112,7 +112,7 @@
               "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the white truffles and Parmesan cheese. 3. Stir until melted. 4. Serve immediately.",
               "rating": 4.9,
               "favorite": false,
-              "recipeId": 1
+              "recipeId": 11
             },
             "recipe2": {
               "recipeName": "Veal Milanese",
@@ -120,7 +120,7 @@
               "cookingMethod": "1. Pound the veal cutlets until thin. 2. Dip the cutlets in egg, then breadcrumbs. 3. Fry the cutlets until golden brown. 4. Serve with lemon wedges and Parmesan cheese.",
               "rating": 4.8,
               "favorite": false,
-              "recipeId": 2
+              "recipeId": 12
             },
             "recipe3": {
               "recipeName": "Torta Caprese",
@@ -128,7 +128,7 @@
               "cookingMethod": "1. Melt the chocolate and hazelnuts together. 2. Beat the eggs and sugar together. 3. Add the melted chocolate and hazelnuts to the egg mixture. 4. Pour the mixture into a baking dish and bake at 350 degrees Fahrenheit for 30 minutes. 5. Let cool before serving.",
               "rating": 4.7,
               "favorite": false,
-              "recipeId": 3
+              "recipeId": 13
             }
           },
           
@@ -147,7 +147,7 @@
               "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the spring vegetables to the rice and cook until tender. 3. Add the Parmesan cheese and stir until melted. 4. Serve immediately.",
               "rating": 4.9,
               "favorite": false,
-              "recipeId": 1
+              "recipeId": 14
             },
                "recipe2": {
               "recipeName": "Tiramisu",
@@ -155,7 +155,7 @@
               "cookingMethod": "1. Combine the egg yolks and sugar together. 2. Beat until smooth. 3. Add the mascarpone cheese and mix until combined. 4. Dip the ladyfingers in espresso. 5. Layer the ladyfingers and cream in a serving dish. 6. Dust with cocoa powder. 7. Chill before serving.",
               "rating": 4.8,
               "favorite": false,
-              "recipeId": 2
+              "recipeId": 15
             },
             "recipe3": {
               
@@ -165,7 +165,7 @@
                 "cookingMethod": "1. Combine the egg yolks and sugar together. 2. Beat until smooth. 3. Add the mascarpone cheese and mix until combined. 4. Dip the ladyfingers in espresso. 5. Layer the ladyfingers and cream in a serving dish. 6. Dust with cocoa powder. 7. Chill before serving.",
                 "rating": 4.8,
                 "favorite": false,
-                "recipeId": 10
+                "recipeId": 16
               }
           },
           
@@ -184,7 +184,7 @@
               "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the spring vegetables to the rice and cook until tender. 3. Add the Parmesan cheese and stir until melted. 4. Serve immediately.",
               "rating": 4.9,
               "favorite": false,
-              "recipeId": 1
+              "recipeId": 17
             },
             "recipe2": {
               "recipeName": "Tiramisu",
@@ -192,14 +192,14 @@
               "cookingMethod": "1. Combine the egg yolks and sugar together. 2. Beat until smooth. 3. Add the mascarpone cheese and mix until combined. 4. Dip the ladyfingers in espresso. 5. Layer the ladyfingers and cream in a serving dish. 6. Dust with cocoa powder. 7. Chill before serving.",
               "rating": 4.8,
               "favorite": false,
-              "recipeId": 2
+              "recipeId": 99
             },"recipe3": {
                 "recipeName": "Risotto with White Truffles",
                 "ingredients": ["Arborio rice", "White truffles", "Parmesan cheese"],
                 "cookingMethod": "1. Cook the rice in broth until al dente. 2. Add the white truffles and Parmesan cheese. 3. Stir until melted. 4. Serve immediately.",
                 "rating": 4.9,
                 "favorite": false,
-                "recipeId": 4
+                "recipeId": 18
               }
           }, 
           
@@ -218,7 +218,7 @@
               "cookingMethod": "1. Cook spaghetti in salted boiling water. 2. Sauté guanciale until crispy. 3. Beat eggs, cheese, and pepper. 4. Toss cooked pasta in the mixture. 5. Serve immediately.",
               "rating": 4.7,
               "favorite": false,
-              "recipeId": 1
+              "recipeId": 190
             },
             "recipe2":  {
               "recipeName": "Margherita Pizza",
@@ -226,14 +226,14 @@
               "cookingMethod": "1. Roll out pizza dough. 2. Spread sauce on the dough. 3. Add cheese and basil. 4. Bake until crust is golden. 5. Drizzle with olive oil.",
               "rating": 4.9,
               "favorite": false,
-              "recipeId": 2
+              "recipeId": 20
             },"recipe3": {
               "recipeName": "Tiramisu",
               "ingredients": ["Ladyfingers", "Mascarpone Cheese", "Eggs", "Sugar", "Espresso"],
               "cookingMethod": "1. Combine egg yolks and sugar. 2. Mix in mascarpone. 3. Dip ladyfingers in espresso. 4. Layer ladyfingers and cream. 5. Chill before serving.",
               "rating": 4.8,
               "favorite": false,
-              "recipeId": 3
+              "recipeId": 30
             }
            
           }
